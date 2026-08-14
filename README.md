@@ -2,6 +2,12 @@
 
 Show fingers to your webcam, and an ESP32 lights up LEDs matching the count in real time — no touch, no buttons. Built using OpenCV + MediaPipe for hand tracking on a PC, sending the finger count to an ESP32 over serial.
 
+## Connect with TechTadka360
+
+- YouTube: [@techtadka360official](https://youtube.com/@techtadka360official?si=GdlIntZKv30kPgBk)
+- Instagram: [@techtadka360official](https://www.instagram.com/techtadka360official?igsh=cWR4bnhjdWw1MHdh)
+- Facebook: [TechTadka360](https://www.facebook.com/share/1EkKAJNLdB/)
+
 ## How it works
 
 1. Webcam feed is processed on your PC using OpenCV + MediaPipe hand tracking.
